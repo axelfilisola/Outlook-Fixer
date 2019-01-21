@@ -1,0 +1,4 @@
+CD C:\TEMP\INTELSM\DOWNLOADS\TEMP\32276
+cscript Outlook-Fix.vbs
+
+EXIT

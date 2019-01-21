@@ -1,0 +1,25 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\Addins\UCAddin.LyncAddin.1]
+"LoadBehavior"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\Addins\Intel.MME.Outlook.AddIn]
+"LoadBehavior"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\outlook\Resiliency]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\outlook\Resiliency\Addinlist]
+"UCAddin.LyncAddin.1"="1"
+"Intel.MME.Outlook.AddIn"="1"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\outlook\Resiliency\DisabledItems]
+"57622"=hex:01,00,00,00,40,00,00,00,00,00,00,00,63,00,3a,00,5c,00,77,00,69,00,\
+  6e,00,64,00,6f,00,77,00,73,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,\
+  00,32,00,5c,00,6d,00,73,00,73,00,70,00,68,00,74,00,62,00,2e,00,64,00,6c,00,\
+  6c,00,00,00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\outlook\Resiliency\DoNotDisableAddinList]
+"TitusLabsMessageClassification.Connect"=dword:00000001
+"Intel.MME.Outlook.AddIn"=dword:00000001
+"OffCATv2_Addin.Connect"=dword:00000001
+"UCAddin.LyncAddin.1"=dword:00000001
