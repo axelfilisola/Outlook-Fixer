@@ -1,8 +1,7 @@
 # Outlook-FIX
 
 Fixes:
-- Missing Let's Meet AddIn
-- Missing Skype for Business AddIn
+- Missing or Disabled AddIns
 - Links not opening due to restrictions by Administrator
 
 What it does:
